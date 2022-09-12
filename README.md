@@ -1,2 +1,2 @@
 # Paperpillar
- Visuelle Imitation von paperpillar.com
+Partly visual imitation of paperpillar.com for study purposes
