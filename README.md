@@ -8,6 +8,5 @@ Partly visual imitation of paperpillar.com for study purposes
 ![screenshot4](https://user-images.githubusercontent.com/64472922/189654536-860b80fa-f33a-4987-b793-b94469b9d963.png)
 ![screenshot5](https://user-images.githubusercontent.com/64472922/189654537-c3b7a968-9109-4f3a-ab5b-27fcd68fcb12.png)
 
-Responsiveness + Mobile Menu
 ![image](https://user-images.githubusercontent.com/64472922/190405116-874913eb-1ac6-4f46-968c-99f97702f7cc.png)
 ![image](https://user-images.githubusercontent.com/64472922/190405310-ea146f5a-d78d-4347-887f-e22be62a79cf.png)
